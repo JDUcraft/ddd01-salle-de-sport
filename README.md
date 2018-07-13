@@ -14,4 +14,6 @@
 Les devs sont les seuls à voir les enjeux de chaque partie de notre système d'information
 Tant que les développeurs ne sont là que pour coder on ne résoudra pas le vraie problème
 
+Le temps est un événement qui peut déclencher un autre événement.
+ (met en évidence la possibilité d'avoir besoin de batch / ordonanceur / etc...)
 

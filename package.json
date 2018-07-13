@@ -22,5 +22,8 @@
     "testMatch": [
       "**/*.spec.js"
     ]
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
   }
 }
